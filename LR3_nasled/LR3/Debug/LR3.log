@@ -1,0 +1,9 @@
+﻿  LR3.cpp
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(20,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(42,53): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(43,46): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(162,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(177,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(212,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tankt\Games\Laby\LR3\LR3\LR3.cpp(215,59): warning C4305: аргумент: усечение из "double" в "float"
+  LR3.vcxproj -> C:\Users\tankt\Games\Laby\LR3\Debug\LR3.exe
