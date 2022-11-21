@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\GitHub\Labs_KPiYAP\LR4_virtual_abstract\LR4_virtual_abstract\Source.cpp(41,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR4_virtual_abstract.vcxproj -> D:\GitHub\Labs_KPiYAP\LR4_virtual_abstract\Debug\LR4_virtual_abstract.exe
