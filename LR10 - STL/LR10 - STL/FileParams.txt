@@ -1,0 +1,7 @@
+BlueFirstColor
+RedSecondColor
+75Frequency
+YesTwochannel
+GoodColorType
+ParadoxTime
+WhoDoctor

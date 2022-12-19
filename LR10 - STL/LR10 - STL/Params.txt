@@ -1,0 +1,7 @@
+FirstColor=Blue
+SecondColor=Red
+Frequency=75
+Twochannel=Yes
+ColorType=Good
+Time=Paradox
+Doctor=Who

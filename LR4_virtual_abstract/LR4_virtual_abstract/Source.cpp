@@ -97,8 +97,7 @@ public:
 
 int main()
 {
-    setlocale(LC_ALL, "rus");
-
+    system("chcp 1251");
     Zavod* tseh1 = new Factory("Цех 1", 5000, 5);
     Zavod* conv1 = new Conveyor("Конвейер 1", 1000);
     Zavod* work1 = new WorkPlace("Рабочее место 1", 1000);
@@ -112,5 +111,5 @@ int main()
     for (int i = 0; i < 3; i++) {
         delete zavodik[i];
     }
-
+    //delete zavodik;
 }

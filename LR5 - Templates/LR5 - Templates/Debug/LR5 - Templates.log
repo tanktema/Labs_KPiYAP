@@ -1,0 +1,5 @@
+﻿  LR5 - Templates.cpp
+D:\GitHub\Labs_KPiYAP\LR5 - Templates\LR5 - Templates\LR5 - Templates.cpp(30,20): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется "спецификатор типа"
+D:\GitHub\Labs_KPiYAP\LR5 - Templates\LR5 - Templates\LR5 - Templates.cpp(104): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<T,length>"
+  LR6 - Exceptions.cpp
+  Создание кода...

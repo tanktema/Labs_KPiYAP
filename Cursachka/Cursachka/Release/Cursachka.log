@@ -1,0 +1,19 @@
+﻿  Cursachka.cpp
+D:\New Folder\Cursachka\Cursachka\Exceptions.h(26,15): warning C4101: input_char: неиспользованная локальная переменная
+D:\New Folder\Cursachka\Cursachka\CharClasses.h(104,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(103,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(101,7): warning C4101: currentval: неиспользованная локальная переменная
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(172,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(391,12): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(493,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(500,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(517,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(562,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(569,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\CharacterDefinition.h(586,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\New Folder\Cursachka\Cursachka\Cursachka.cpp(27,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 692 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Cursachka.vcxproj -> D:\New Folder\Cursachka\Release\Cursachka.exe
