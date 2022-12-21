@@ -76,22 +76,7 @@ public:
     {
         return MnozhValue[index];
     }
-    T operator+(T val)
-    {
-        for (int i = 0; i < length; i++)
-        {
-            MnozhValue[i] = MnozhValue[i] + val;
-        }
-        return *MnozhValue;
-    }
-    T operator-(T val)
-    {
-        for (int i = 0; i < length; i++)
-        {
-            MnozhValue[i] = MnozhValue[i] - val;
-        }
-        return *MnozhValue;
-    }
+    
 
     ~Set()
     {
